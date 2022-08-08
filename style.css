@@ -5,7 +5,7 @@ body {
 .google-img {
     margin: 0;
 }
-
+/*********************** SEARCH-SECTION *********************/
 .g-search {
     width: 90%;
     text-align: center;
@@ -22,7 +22,7 @@ body {
     gap: 2px 2px;
     text-align:center;
 }
-
+/******************************** LINK-SECTION*******************/
 .grid-1 {
     background-color: #7EE5DA ;
     padding: 12px;
